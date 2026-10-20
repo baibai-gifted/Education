@@ -19,4 +19,3 @@ https://www.kdocs.cn/l/coCdkuO5iIU8
 
 作者头像取自 baibai-gifted 的公开 GitHub 头像（2026-10-20 获取），作为作者识别使用，未作图像改动；圆形效果由 CSS 呈现。头像或其所含第三方美术内容不包含在程序源码的许可授权中。
 
-本许可范围不包含 Education 仓库已有或未来另行发布的 RecallSlide 安装程序、模型或第三方组件；它们以各自随版许可为准。

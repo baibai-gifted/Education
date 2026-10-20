@@ -41,4 +41,4 @@ node source/check-delivery.cjs
 
 题库源自[公开 KDocs 资料](https://www.kdocs.cn/l/coCdkuO5iIU8)。第三方题干、选项、原解析、来源资料及头像等内容的权利归原权利人，本项目不对它们作额外授权；程序的 AGPL 许可不代替这些内容的原有权利。来源、补充解析与提取边界见 [source/README.md](source/README.md) 和 [NOTICE.md](NOTICE.md)。
 
-本项目位于 Education 仓库的 `military-study/`，与仓库中已有的 RecallSlide 下载说明独立。
+项目源码与构建输入位于 Education 仓库的 `military-study/` 目录。
