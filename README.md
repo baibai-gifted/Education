@@ -4,7 +4,7 @@
 
 ## 下载与使用
 
-前往 [Releases](https://github.com/baibai-gifted/Education/releases) 下载刷题 ZIP，全部解压后双击 index.html。无需安装、登录或启动服务器。
+前往 [Releases](https://github.com/baibai-gifted/military-theory-practice/releases) 下载刷题 ZIP，全部解压后双击 index.html。无需安装、登录或启动服务器。
 
 ## 功能
 

@@ -29,7 +29,7 @@ assert.equal(bank.integrity.learningModuleCount, 10);
 assert.equal(bank.questions.filter(q => q.answerStatus === 'review').length, 6);
 assert(!html.includes('__AUTHOR_AVATAR_DATA_URI__'));
 assert(/src="data:image\/jpeg;base64,[A-Za-z0-9+/=]+"/.test(html));
-assert(html.includes('https://github.com/baibai-gifted/Education/releases'));
+assert(html.includes('https://github.com/baibai-gifted/military-theory-practice/releases'));
 assert(html.includes('AGPL-3.0'));
 console.log(JSON.stringify({status:'PASS',questions:4733,sourceFieldsPreserved:true,
   originalExplanations:4632,supplementedExplanations:101,modules:10,

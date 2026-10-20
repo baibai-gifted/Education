@@ -61,8 +61,8 @@ def main():
         "分享给别人时发送整个 ZIP 即可。\n\n"
         "作者：baibai；导航中的“作者”页可查看头像与版本下载链接。\n"
         "程序源码采用 AGPL-3.0-only，详见 LICENSE；第三方题库内容权利见 NOTICE.md。\n"
-        "源码：https://github.com/baibai-gifted/Education/tree/main/military-study\n"
-        "下载：https://github.com/baibai-gifted/Education/releases\n\n"
+        "源码：https://github.com/baibai-gifted/military-theory-practice/tree/main/military-study\n"
+        "下载：https://github.com/baibai-gifted/military-theory-practice/releases\n\n"
         "原资料：https://www.kdocs.cn/l/coCdkuO5iIU8\n"
     )
     bundle = ROOT / "军事理论刷题包.zip"

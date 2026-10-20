@@ -7,10 +7,10 @@ Copyright © 2026 baibai
 本项目程序源码采用 GNU Affero General Public License version 3 only，SPDX 标识为 `AGPL-3.0-only`。许可全文随包提供于 LICENSE。程序按现状提供，无任何明示或默示担保；详细条件以许可证为准。
 
 完整对应源码、构建脚本和必需数据输入：
-https://github.com/baibai-gifted/Education/tree/main/military-study
+https://github.com/baibai-gifted/military-theory-practice/tree/main/military-study
 
 发布与下载：
-https://github.com/baibai-gifted/Education/releases
+https://github.com/baibai-gifted/military-theory-practice/releases
 
 原题库：2026年军事理论知识竞赛题库-可查看下载.xlsx
 https://www.kdocs.cn/l/coCdkuO5iIU8
