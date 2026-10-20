@@ -1,3 +1,14 @@
+# Education
+
+baibai 的教育工具与离线下载。
+
+- **[知序 · 军事理论刷题](military-study/README.md)**：4,733 题、易混题集与自动错题本，HTML 离线使用。程序源码采用 [AGPL-3.0-only](LICENSE)。在 [Releases](https://github.com/baibai-gifted/Education/releases) 下载标题为「知序 · 军事理论刷题」的版本。
+- **RecallSlide**：Windows 离线复习 PPT 工具，现有说明见下文，安装包发布状态不变。
+
+程序许可、第三方资料和既有 RecallSlide 发布物的范围见 [NOTICE.md](NOTICE.md)。
+
+---
+
 # RecallSlide
 
 面向高中英语课堂的 Windows 离线复习 PPT 工具。
@@ -10,7 +21,7 @@
 
 当前公开安装文件仍在准备中。没有完整附件和安装说明的版本，请勿用于正式教学。
 
-本仓库仅存放必要说明，安装文件通过 Releases 分发；不包含 RecallSlide 开发源码、测试资料或用户数据。
+RecallSlide 部分仅存放必要说明，安装文件通过 Releases 分发；不包含 RecallSlide 开发源码、测试资料或用户数据。
 
 ## 安装与离线使用
 

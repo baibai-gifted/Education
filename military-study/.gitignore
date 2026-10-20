@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.tmp
+study-package-*/
+军事理论刷题包.zip
+publication/
